@@ -1,5 +1,5 @@
 # 💫 About Me:
-I like coding <br>coding good <br>python easy <br>c++ hard <br>
+I like coding
 
 
 ## 🌐 Socials:
